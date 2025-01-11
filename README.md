@@ -15,5 +15,10 @@ Lesson-2 {
 }
 
 Lesson-3 {
-    Time stat and note section will be added when I commit the 4th Lesson
+    [Start Date: 07|01|2025] [Total Time (hr): 1 hr 42 mins] [Finish Date: 07|01|2025]
+        Note: Moved the README.md file in the Lesson-2 folder to its "exercise and its solution" sub folder so that this course is kept organized.
+}
+
+Lesson-4 {
+    Time stat and note section will be added when I commit the 5th Lesson
 }
